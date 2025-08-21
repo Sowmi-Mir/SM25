@@ -7,6 +7,24 @@ body {
   color: #ffffff;
 }
 
+.text-container-1 {
+  border: 2px solid white;
+  padding: 20px;
+  background-color: #333333;
+}
+
+.text-container-2 {
+  border: 2px solid white;
+  padding: 20px;
+  background-color: #333333;
+}
+
+.text-container-3 {
+  border: 2px solid white;
+  padding: 20px;
+  background-color: #333333;
+}
+
 header {
   background: #170101;
   color: #ffffff;
