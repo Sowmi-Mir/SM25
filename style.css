@@ -11,18 +11,24 @@ body {
   border: 2px solid white;
   padding: 20px;
   background-color: #333333;
+  border-radius: 12px;
+  margin-bottom: 20px;
 }
 
 .text-container-2 {
   border: 2px solid white;
   padding: 20px;
   background-color: #333333;
+  border-radius: 12px;
+  margin-bottom: 20px;
 }
 
 .text-container-3 {
   border: 2px solid white;
   padding: 20px;
   background-color: #333333;
+  border-radius: 12px;
+  margin-bottom: 20px;
 }
 
 header {
